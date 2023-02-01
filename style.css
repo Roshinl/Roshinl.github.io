@@ -1,0 +1,31 @@
+
+  html {
+    scroll-behavior: smooth;
+    background-color: #9DC5BB;
+    padding: 50px;
+    border: 15px solid #697d78;
+  }
+
+  
+  .picture{
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    
+    }
+  
+  .center{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    list-style-type: square;
+    list-style-position:inside;
+    color:black;
+  }
+  
+  .size{
+    font-size: 20px;
+  }
+  
+  
+  
